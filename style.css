@@ -1,0 +1,26 @@
+
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #540383;
+    font-family: sans-serif;
+}
+
+.mt-3 {
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.card-body {
+    border: none;
+}
+
+.form-control {
+    border: 1px solid #333;
+    border-radius: 5px;
+}
